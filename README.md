@@ -3,7 +3,7 @@
   <img src="images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome" />
   <br />
   <br />
-  <img height="50" alt="My Name is Giuseppe and I'm doing a PhD in Artificial Intelligence" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Giuseppe and I'm doing a PhD" src="images/personal_note.svg" />
   <br />
   <br />
 
@@ -45,7 +45,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/peppocola/peppocola.github.io/issues/3#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
