@@ -48,15 +48,7 @@
       <div class="scale">
       <span class="scale-items">
           <strong>
-            <span style="color: red">G</span>
-            <span style="color: orange">u</span>
-            <span style="color: yellow">e</span>
-            <span style="color: green">s</span>
-            <span style="color: blue">t</span>
-            <span style="color: violet">b</span>
-            <span style="color: purple">o</span>
-            <span style="color: pink">o</span>
-            <span style="color: red">k</span>
+            <span style="color: purple">Guestbook</span>
           </strong>
           <span class="link"> (Add a new entry) </span>
         </span>
