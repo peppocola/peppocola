@@ -44,15 +44,6 @@
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/peppocola/peppocola.github.io/issues/3#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-<!-- /Guestbook -->
-
 <!-- Footer -->
 
 <div align="center">
