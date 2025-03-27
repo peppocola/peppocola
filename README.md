@@ -53,4 +53,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/peppocola/count.svg)
 
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=peppocola&count=5)](https://www.last.fm/user/peppocola)
+
 </div>
